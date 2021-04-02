@@ -27,7 +27,7 @@
     "url": "https://github.com/iwillwen/nodejs-sdk/issues"
   },
   "dependencies": {
-    "underscore": "~1.5.1",
+    "underscore": "~1.12.1",
     "request": "~2.27.0",
     "q": "~0.9.6",
     "dataStream": "0.0.5"
